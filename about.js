@@ -10,9 +10,13 @@ function handleSubmit(evt) {
 }
 
 
-let form = document.querySelector('#contact');
+const duckyImage= document.querySelector(".ducky");
+duckyImage.addEventListener("mouseover", function(){ alert("You are almost as loveable as this rubber ducky!"); });
 
-form.addEventListener('submit', handleSubmit);
+
+// let form = document.querySelector('#contact');
+
+// form.addEventListener('submit', handleSubmit);
 
 // let test = document.getElementById("#ducky");
 

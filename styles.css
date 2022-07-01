@@ -51,3 +51,21 @@ h3 {
 ul, p {
 	color: white;
 }
+
+.colorBtn {
+	height: 30px;
+	border-radius: 10px 30px;
+	background-color:#9CAF88;
+}
+
+.placeBtn {
+	height: 30px;
+	border-radius: 10px 30px;
+	background-color:#9CAF88;
+}
+
+.ritualBtn {
+	height: 30px;
+	border-radius: 10px 30px;
+	background-color:#9CAF88;
+}
