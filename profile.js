@@ -9,4 +9,3 @@ myFavPlaceBtn.addEventListener("click", function(){ alert("The mountains!"); });
 myFavRitualBtn.addEventListener("click", function(){ alert("Getting a big soda after a long day."); });
 
 //last step - combine step one and step two adding an event listener
-
